@@ -21,4 +21,6 @@
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joraeng)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joraeng)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joraeng&show_icons=true&bg_color=cdffa5&title_color=395126&text_color=395126&layout=compact&exclude_repo=study&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
