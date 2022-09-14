@@ -1,9 +1,9 @@
-- Hi, I'm @joraeng 👋
+### Hi, I'm @joraeng 👋
 
-> Welcome to my Github
+> Welcome to my Github!
 > I'm interested Web, Game
 
-### I'm currently learning & I'm currently interested
+### ✍I'm currently learning & 🧐I'm currently interested
 [![](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)]()
 [![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/)
 
@@ -17,10 +17,17 @@
 ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white)
 
+
+![](https://img.shields.io/badge/MongoDB-COCOCO?style=flat&logo=MongoDB&logoColor=white)
+![](https://img.shields.io/badge/OracleDB-CB3837?style=flat&logo=Oracle&logoColor=white)
+![](https://img.shields.io/badge/MSSQL-C0C0C0?style=flat&logo=MicrosoftSQLServer&logoColor=white)
+
+![](https://img.shields.io/badge/Docker-61DADE?style=flat&logo=Docker&logoColor=white)
+
 ![](https://img.shields.io/badge/UnerealEngine-000000?style=flat&logo=UnrealEngine&logoColor=white)
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joraeng)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joraeng)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joraeng&show_icons=true&bg_color=cdffa5&title_color=395126&text_color=395126&layout=compact&exclude_repo=study&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joraeng&show_icons=true&layout=compact&exclude_repo=study&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
