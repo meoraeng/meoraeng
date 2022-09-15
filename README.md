@@ -1,6 +1,6 @@
-### Hi, I'm @joraeng 👋
+### Hi, I'm @Joraeng 👋
 
-> Welcome to my Github!  
+> Welcome to my profile,  
 > I'm interested Web, Game
 
 ### ✍I'm currently learning & 🧐I'm currently interested
