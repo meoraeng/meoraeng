@@ -20,7 +20,6 @@
 
 ![](https://img.shields.io/badge/MongoDB-COCOCO?style=flat&logo=MongoDB&logoColor=white)
 ![](https://img.shields.io/badge/OracleDB-CB3837?style=flat&logo=Oracle&logoColor=white)
-![](https://img.shields.io/badge/MSSQL-C0C0C0?style=flat&logo=MicrosoftSQLServer&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 ![](https://img.shields.io/badge/Docker-61DADE?style=flat&logo=Docker&logoColor=white)
