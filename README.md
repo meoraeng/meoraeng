@@ -7,6 +7,7 @@
 
 ✍I'm currently studying 
 
+![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
