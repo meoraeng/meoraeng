@@ -30,6 +30,8 @@
 
 ![](https://img.shields.io/badge/MongoDB-COCOCO?style=flat&logo=MongoDB&logoColor=white)
 ![](https://img.shields.io/badge/OracleDB-CB3837?style=flat&logo=Oracle&logoColor=white)
+![](https://img.shields.io/badge/mariadb-003545.svg?&style=flat&logo=MariaDB&logoColor=white)
+
 
 
 ![](https://img.shields.io/badge/Docker-61DADE?style=flat&logo=Docker&logoColor=white)
