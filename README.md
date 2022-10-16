@@ -9,7 +9,7 @@
 
 ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/mariadb-003545.svg?&style=flat&logo=MariaDB&logoColor=white)
 
 
 ###  🧐TechStack
@@ -30,7 +30,7 @@
 
 ![](https://img.shields.io/badge/MongoDB-COCOCO?style=flat&logo=MongoDB&logoColor=white)
 ![](https://img.shields.io/badge/OracleDB-CB3837?style=flat&logo=Oracle&logoColor=white)
-![](https://img.shields.io/badge/mariadb-003545.svg?&style=flat&logo=MariaDB&logoColor=white)
+
 
 
 
